@@ -1,1 +1,3 @@
-string s = "difference file"
+public void main(string[] array){
+    
+}
